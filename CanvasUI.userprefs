@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Scripts_Canvas\SedBar.cs">
+    <Files>
+      <File FileName="Assets\Script\BotonesVirtuales.cs" Line="130" Column="72" />
+      <File FileName="Assets\Script\ComportamientoPatron.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LlamarLeon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\IrCentro.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ControlTarget.cs" Line="10" Column="31" />
+      <File FileName="Assets\Script\Scripts_Canvas\FelicidadBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Scripts_Canvas\HambreBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Scripts_Canvas\SedBar.cs" Line="61" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

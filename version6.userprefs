@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Menu\probar.cs">
+    <Files>
+      <File FileName="Assets\Script\ControlTarget.cs" Line="24" Column="16" />
+      <File FileName="Assets\Script\Menu\Cargar_Barras.cs" Line="12" Column="23" />
+      <File FileName="Assets\Script\Guardado.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Menu\Nueva_Partida.cs" Line="12" Column="3" />
+      <File FileName="Assets\Script\Scripts_Canvas\FelicidadBar.cs" Line="85" Column="41" />
+      <File FileName="Assets\Script\Menu\probar.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
